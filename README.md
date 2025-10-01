@@ -1,9 +1,9 @@
 # Large-Scale Feature Engineering & Predictive Modeling with PySpark  
 
 ## 📌 Overview  
-This project implements a scalable **end-to-end data processing and machine learning pipeline** using **PySpark DataFrames** on a distributed Spark cluster (UCSD DSMLP). Working with **12GB of Amazon product and review data**, the pipeline performs complex feature engineering, builds ML-ready representations, and trains/tunes a Decision Tree Regressor for product rating prediction.  
+This is a scalable **end-to-end data processing and machine learning pipeline** using **PySpark DataFrames** on a distributed Spark cluster (UCSD DSMLP). Working with **12GB of Amazon product and review data**, the pipeline performs complex feature engineering, builds ML-ready representations, and trains/tunes a Decision Tree Regressor for product rating prediction.  
 
-The project demonstrates skills in **big data processing, feature engineering, distributed ML training, and runtime optimization**. It was originally completed as part of UCSD’s *Systems for Scalable Analytics* coursework (PA2), where it achieved a perfect score (21/20) including runtime efficiency bonus.  
+Doing this helped me understand more in-depth **big data processing, feature engineering, distributed ML training, and runtime optimization**. It was originally completed as part of UCSD’s *Systems for Scalable Analytics* coursework. 
 
 ---
 
