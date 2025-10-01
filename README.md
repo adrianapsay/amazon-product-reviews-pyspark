@@ -33,6 +33,6 @@ Doing this helped me understand more in-depth **big data processing, feature eng
 
 ## 🛠️ Tech Stack  
 - **Languages**: Python (PySpark)  
-- **Libraries/Frameworks**: PySpark (MLlib, SQL), Spark ML  
-- **Platforms/Tools**: DSMLP (UCSD distributed Spark cluster, Kubernetes), Docker (containerization), Jupyter Notebook  
-- **Data**: ~12GB Amazon product + review dataset  
+- **Libraries/Frameworks**: PySpark (SQL, MLlib DataFrame API), Spark ML  
+- **Platforms/Tools**: UCSD DSMLP (Kubernetes-backed Spark cluster), Jupyter Notebook
+- **Data**: ~12GB Amazon product + review dataset 
