@@ -26,8 +26,7 @@ Doing this helped me understand more in-depth **big data processing, feature eng
 - **Optimizations:**  
   - Persisted train/valid splits with `MEMORY_AND_DISK` to avoid recomputation  
   - Schema-pruned to only `features` and `overall` columns  
-  - Explicit caching/unpersisting to manage shuffle-heavy workloads  
-- Achieved top-tier performance (21/20) under strict runtime limits  
+  - Explicit caching/unpersisting to manage shuffle-heavy workloads   
 
 ---
 
